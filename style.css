@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    color: white;
+    font-family: "American Typewriter";
+}
+h2{
+    text-align: center;
+    color: white;
+    font-family: "American Typewriter";
+}
+#open{
+    text-align: center;
+}
+#divy{
+    text-align: center;
+    color: white;
+    font-size: larger;
+}
+#buttons{
+    text-align: center;
+}
+#count{
+    text-align: center;
+    color: white;
+}
